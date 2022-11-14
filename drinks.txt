@@ -1,0 +1,21 @@
+Iced Teas/Slushies: Passion Fruit
+Iced Teas/Slushies: Pineapple
+Iced Teas/Slushies: Pomegranate
+Iced Teas/Slushies: Grapefruit
+Iced Teas/Slushies: Mango
+Iced Teas/Slushies: Strawberry
+Iced Teas/Slushies: Peach
+Iced Teas/Slushies: Kamquat Lemon
+Iced Teas/Slushies: Honeydew
+Milk/Frappes: Original
+Milk/Frappes: Vanilla
+Milk/Frappes: Chocolate
+Milk/Frappes: Taro
+Milk/Frappes: Almond
+Milk/Frappes: Coconut
+Milk/Frappes: Coffee
+Milk/Frappes: Matcha
+Milk/Frappes: Thai Tea
+Milk/Frappes: Lychee
+Milk/Frappes: Mango
+Milk/Frappes: Strawberry
